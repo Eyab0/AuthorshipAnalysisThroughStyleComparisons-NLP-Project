@@ -1,2 +1,2 @@
-# nlp-authorship-analysis
+# Authorship analysis through style comparisons - NLP Project
  
